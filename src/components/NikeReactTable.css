@@ -1,0 +1,6 @@
+.checkbox-dashed .fa.fa-square-o::before {
+  content: "\f146";
+}
+.ReactTable .field {
+  margin-bottom: 0;
+}
